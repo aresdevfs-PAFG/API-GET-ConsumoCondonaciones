@@ -1,3 +1,4 @@
+
 # API de Condonaciones - Sparta Ledger
 
 API desarrollada en Python con FastAPI para la gestión de condonaciones de crédito.
@@ -418,4 +419,7 @@ Para problemas o preguntas, consulta la documentación interactiva en `/docs` o 
 ---
 
 **Versión**: 1.0.0  
-**Última actualización**: Enero 2026
+**Última actualización**: 28 de Enero 2026
+
+# API-GET-ConsumoCondonaciones
+
